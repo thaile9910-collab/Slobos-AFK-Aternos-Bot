@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Xin chào tôi là Robot của SMP Nổi Loạn . Create by PaciMC"
       ]
     },
     "chat-log": true,
